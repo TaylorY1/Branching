@@ -1,9 +1,6 @@
 ## Git Cheat Sheet
 
-Overview of git commands
-
-Text 
-
+Overview offddffbvfbvvvv
 ### Basic Commands
 * 'git init' - initialize a local git repo
 * 'git add fileName' - stage file for commit
